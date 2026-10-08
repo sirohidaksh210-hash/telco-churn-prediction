@@ -68,3 +68,5 @@ streamlit run app.py                                    # use the pre-trained mo
 1. Push this repo to a public GitHub repository.
 2. Go to <https://share.streamlit.io> → **New app** → select the repo, branch `main`, main file `app.py`.
 3. In *Advanced settings* choose Python 3.11 or newer, then deploy and paste the URL above.
+
+The final link after deployment where you will get your result is <https://colab.research.google.com/drive/1zX934Q7Zt72vfJ0tL0LpOZyNkllAzNMP?usp=sharing#scrollTo=B9gnVfUD6If->
